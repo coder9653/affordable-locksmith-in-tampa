@@ -1,6 +1,5 @@
 <? php
-<!DOCTYPE html>
-<html>
+
 
 <head>
     <title>Affordable Locksmith Tampa | Top Locksmith Services in Tampa, FL</title>
