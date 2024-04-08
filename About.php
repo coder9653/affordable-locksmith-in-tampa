@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php
+echo <!DOCTYPE html>
 <html>
 
 <head>
@@ -659,3 +660,4 @@
 </body>
 
 </html>
+?>
