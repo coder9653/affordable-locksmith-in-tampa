@@ -1,4 +1,5 @@
-<? php <!DOCTYPE html>
+<? php 
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -398,9 +399,9 @@
             <div class="website-name">Affordable Locksmith Tampa</div>
         </div>
         <nav>
-            <a href="index.html">Home</a>
-            <a href="About.html">About Us</a>
-            <a href="contact.html">Contact Us</a>
+            <a href="index.php">Home</a>
+            <a href="About.php">About Us</a>
+            <a href="contact.php">Contact Us</a>
         </nav>
     </header>
 
