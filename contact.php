@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<? php <!DOCTYPE html>
 <html>
 
 <head>
@@ -507,3 +507,4 @@
 </body>
 
 </html>
+?>
